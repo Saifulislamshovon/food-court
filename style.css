@@ -1,0 +1,43 @@
+body {
+    font-family: fre;
+}
+
+.flex-container {
+    display: flex;
+    width: 80%;
+    margin: 100px 100px 10px 100px;
+}
+
+.text-portion h1 {
+    font-size: 70px;
+
+}
+
+.text-portion {
+    margin-top: 100px;
+}
+
+.text-portion span {
+    color: orange;
+}
+
+.author-img {
+    width: 40%;
+}
+
+.para {
+    text-align: justify;
+    width: 80%;
+    margin-bottom: 80px;
+    font-size: 20px;
+
+}
+
+a {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 15px 30px;
+    border-radius: 30px;
+    color: white;
+
+}
