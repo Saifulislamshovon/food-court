@@ -106,3 +106,19 @@ a {
     margin-left: 400px;
 
 }
+
+#rec-one img {
+    width: 80%;
+}
+
+#rec-two img {
+    width: 90%;
+}
+
+#rec-three img {
+    width: 40%;
+}
+
+.last-flex {
+    display: flex;
+}
