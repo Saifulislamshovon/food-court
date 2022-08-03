@@ -92,3 +92,17 @@ a {
 .mid-text h1 {
     font-size: 70px;
 }
+
+.last-portion h1 {
+    text-align: center;
+    font-size: 80px;
+    margin-top: 200px;
+}
+
+.lp-para {
+    font-size: 30px;
+    text-align: center;
+    width: 50%;
+    margin-left: 400px;
+
+}
