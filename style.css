@@ -144,8 +144,10 @@ a {
     margin-top: 50px;
 }
 
-.input {
-    box-sizing: 20px;
+input {
+    height: 40px;
+    font-size: 24px;
+
 }
 
 .h2 {
