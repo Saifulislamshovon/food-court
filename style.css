@@ -112,18 +112,22 @@ a {
 }
 
 .boxs img {
-    width: 80%;
-    margin: 5px -50px 0px 10px;
+    width: 400px;
+    margin: 5px 0px 0px -25px;
+    padding-left: 0%;
+    padding-right: 10px;
+
 
 }
 
 
 .boxs {
-    box-shadow: 20px 20px 20px 20px gray;
-    margin: 3%;
-    padding: 10px 10px 10px 10px;
+    box-shadow: 20px 0px 20px 20px gray;
+    margin: 3% 4% 5% 3%;
+    padding: 10px 10px 10px 55px;
     border-radius: 20px;
     width: 50px 50px 50px 500px;
+
 
 
 }
