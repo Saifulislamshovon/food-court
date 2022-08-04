@@ -133,7 +133,7 @@ a {
 .follower {
     display: flex;
     box-shadow: 1px 2px 2px 3px gray;
-    margin: 10px 200px 10px 200px;
+    margin: 100px 200px 10px 200px;
     width: 5px 50px 50px 50px;
     border-radius: 20px;
 
@@ -151,9 +151,36 @@ a {
     margin-bottom: 50px;
 }
 
-
 .individual {
     width: 100%;
     text-align: center;
+
+}
+
+footer {
+    background-color: black;
+    height: 250px;
+    margin-top: 100px;
+}
+
+.footer {
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+
+}
+
+.footer span {
+    color: orange;
+}
+
+.footer h1 {
+    padding: 50px 0px;
+}
+
+.footer h6 {
+    margin-top: -80px;
+
 
 }
