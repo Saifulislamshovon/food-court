@@ -133,14 +133,23 @@ a {
 .follower {
     display: flex;
     box-shadow: 1px 2px 2px 3px gray;
+    margin: 10px 200px 10px 200px;
+    width: 5px 50px 50px 50px;
     border-radius: 20px;
-    margin: 50px 100px;
-    padding: 50px 100px;
+
 
 }
 
-.follower h2 {
-    font-size: 50px;
-    width: 250%;
-    padding: 10px;
+.follower h1 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.individual {
+    width: 100%;
+    text-align: center;
+
 }
